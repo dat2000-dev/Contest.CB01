@@ -6,3 +6,4 @@ int main() {
     cin >> a >> b >> c;
     cout << (a+b<=c || a+c<=b || b+c<=a?"NO":"YES");
     return 0;
+}
